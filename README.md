@@ -1,2 +1,3 @@
-# Intro-To-ML-Workshop
-Fall 2023 Intro to Machine Learning SIG AI Workshop
+# ACM Intro to Machine Learning Workshop
+
+9/11/2023
